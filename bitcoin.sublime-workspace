@@ -1,0 +1,1290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"controller\tabc"
+			],
+			[
+				"Ho",
+				"HotelModel\t(Index.php)"
+			],
+			[
+				"vip",
+				"vipshopcat_id\t(Vipshop.php)"
+			],
+			[
+				"val",
+				"value\tabc"
+			],
+			[
+				"bg",
+				"bgWhite:false\t(index.html)"
+			],
+			[
+				"bagr",
+				"background"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"sb",
+				"siblings\t.siblings()"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"va",
+				"val\t.val()"
+			],
+			[
+				"fi",
+				"field\ttp5:指定字段"
+			],
+			[
+				"joi",
+				"join"
+			],
+			[
+				"item",
+				"itemid"
+			],
+			[
+				"itemo",
+				"item_order"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"read",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"j",
+				"json_decode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"v",
+				"val\t.val()"
+			],
+			[
+				"incl",
+				"incl1\tinclude_once …"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"wxpay",
+				"wxpaynotify"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"ted",
+				"text-decoration"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"fz",
+				"font-size"
+			],
+			[
+				"type",
+				"type_id"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"set",
+				"set_model"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mobile",
+				"mobile_phone"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"to",
+				"toggle\t.toggle() (show/hide)"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"mh",
+				"min-height"
+			],
+			[
+				"serv",
+				"service2"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"spa",
+				"word-spacing"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"cel",
+				"cellpadding\tAttr"
+			],
+			[
+				"zi",
+				"zichainfo"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"role",
+				"roleid"
+			],
+			[
+				"tal",
+				"ta-l\ttext-align: left;"
+			],
+			[
+				"br",
+				"border-right"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"tot",
+				"totalf"
+			],
+			[
+				"html",
+				"html\t.html()"
+			],
+			[
+				"ife",
+				"ife\tif … else"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"jquery",
+				"jquery"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"inf",
+				"infos"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"k",
+				"_k"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 138,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"git:co",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git:add",
+				"Git: Add All"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: all",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"Git:init",
+				"Git: Init"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inall",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package→安装程序包"
+			],
+			[
+				"inst",
+				"Package Control: Install Package→安装程序包"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package→删除程序包"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/www/bitcoin"
+	],
+	"file_history":
+	[
+		"/D/www/bitcoin/bitcoin.sublime-project",
+		"/D/Program Files/Sublime Text/Data/Packages/Git/Git.sublime-settings",
+		"/D/Program Files/Sublime Text/Data/Packages/User/Git.sublime-settings",
+		"/D/www/bitcoin/src/main.cpp",
+		"/D/www/bitcoin/README.md",
+		"/D/Program Files/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/worker/.ssh/id_rsa.pub",
+		"/C/Users/worker/.ssh/known_hosts",
+		"/C/Users/worker/github.pub",
+		"/C/Users/worker/Git.sublime-settings",
+		"/C/Users/worker/Desktop/bitcoin-bubble-index-master/original_data/process_data.py",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/market/coupon/index.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/extra/menus.php",
+		"/D/www/dz.westvila.cn/v1.7/source/application/store/extra/menus.php",
+		"/D/www/dz.westvila.cn/v1.7/source/application/store/controller/Controller.php",
+		"/D/www/dz.westvila.cn/www/source/application/config.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/controller/Hotel.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/controller/Controller.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/passport/unlock.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/controller/Passport.php",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/helper.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/StoreUser.php",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/library/think/Session.php",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/library/think/Template.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/Controller.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/service/Message.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/controller/Setting.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/Order.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/controller/Order.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/Setting.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/library/wechat/WxPay.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/add.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/edit.php",
+		"/D/www/dz.westvila.cn/www/source/application/task/model/Order.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/library/sms/Driver.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/library/sms/engine/Aliyun.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/master/Order.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/MasterOrder.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/setting/sms.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/Index.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Order.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/setting/store.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/library/wechat/WxBase.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/library/wechat/logs/20191108.log",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/wxapp/setting.php",
+		"/D/www/dz.westvila.cn/www/source/application/task/controller/Notify.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/Wxapp.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/order/index.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/order/detail.php",
+		"/D/www/dz.westvila.cn/www/web/assets/store/css/amazeui.min.css",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/Order.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/Order.php",
+		"/D/www/dz.westvila.cn/西寓管家小程序/pages/hotel/order.wxss",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/Room.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Hotel.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/room/add.php",
+		"/D/www/dz.westvila.cn/西寓管家小程序/pages/hotel/order.wxml",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/room/edit.php",
+		"/D/www/dz.westvila.cn/!信息.txt",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/line/edit.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/line/add.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Line.php",
+		"/D/www/dz.westvila.cn/www/web/assets/store/css/app.css",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/layouts/layout.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/tpl/days.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/vipshop/edit.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/Hotel.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/vipshopcat/edit.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/vipshop/add.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/User.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/User.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/User.php",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/library/think/Cache.php",
+		"/C/Users/IT_Orz/Desktop/shendiao.net.cn.log",
+		"/C/Users/IT_Orz/Desktop/168eee.com.log",
+		"/C/Users/IT_Orz/Desktop/wa-li.cn.error.log",
+		"/C/Users/IT_Orz/Desktop/wa-li.cn.log",
+		"/D/www/dz.westvila.cn/yoshop_wechat/pages/line/order.wxml",
+		"/D/www/dz.westvila.cn/yoshop_wechat/pages/order/detail.js",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Room.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Upoint.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/controller/User.php",
+		"/D/www/dz.westvila.cn/yoshop_wechat/pages/address/index.js",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/user/index.php",
+		"/C/Users/IT_Orz/Desktop/chenshanle.com.log",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/Upoint.php",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/library/think/Controller.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/OrderAddress.php",
+		"/D/www/dz.westvila.cn/www/source/application/common.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/BaseModel.php",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/library/think/Model.php",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/library/think/Db.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/Goods.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/Upload.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/Line.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Wxapp.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Setting.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/user/Order.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/Hotel.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/hotel/Meal.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/hotel/Line.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/controller/hotel/Vipshop.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Meal.php",
+		"/D/www/dz.westvila.cn/yoshop_wechat/pages/ordermaster/detail.wxml",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/library/think/db/Connection.php",
+		"/D/www/dz.westvila.cn/www/source/thinkphp/library/think/model/relation/HasMany.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/UploadFile.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/UploadFile.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/library/storage/Driver.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/Vipshop.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/meal/add.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/hotel/meal/edit.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Vipshop.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/Meal.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/Cart.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/model/Goods.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/UploadFile.php",
+		"/D/www/dz.westvila.cn/www/source/application/api/Upload.php",
+		"/D/www/dz.westvila.cn/yoshop_wechat/project.config.json",
+		"/D/www/wa-li.cn/index.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/library/helper.php",
+		"/D/www/dz.westvila.cn/yoshop_wechat/pages/hotel/order.js",
+		"/D/www/dz.westvila.cn/yoshop_wechat/pages/line/detail.js",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/Hotel.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/controller/hotel/Vipshopcat.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/model/Vipshopcat.php",
+		"/D/www/dz.westvila.cn/www/source/application/common/model/Vipshopcat.php",
+		"/D/www/dz.westvila.cn/www/source/application/store/view/user/edit.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 185.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"SL.40.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 79.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 181.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 168.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "bitcoin.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menus",
+				"www\\source\\application\\store\\extra\\menus.php"
+			],
+			[
+				"order",
+				"www\\source\\application\\common\\model\\Order.php"
+			],
+			[
+				"hotel edit",
+				"www\\source\\application\\store\\view\\hotel\\edit.php"
+			],
+			[
+				"hotel add",
+				"www\\source\\application\\store\\view\\hotel\\add.php"
+			],
+			[
+				"store setting",
+				"www\\source\\application\\store\\controller\\Setting.php"
+			],
+			[
+				"store view setting sms",
+				"www\\source\\application\\store\\view\\setting\\sms.php"
+			],
+			[
+				"setting",
+				"www\\source\\application\\store\\view\\wxapp\\setting.php"
+			],
+			[
+				"amaz",
+				"www\\web\\assets\\store\\css\\amazeui.min.css"
+			],
+			[
+				"menu",
+				"www\\source\\application\\store\\extra\\menus.php"
+			],
+			[
+				"store/wxapp/setting",
+				"www\\source\\application\\store\\view\\wxapp\\setting.php"
+			],
+			[
+				"apiorder",
+				"www\\source\\application\\api\\controller\\Order.php"
+			],
+			[
+				"master or",
+				"www\\source\\application\\api\\model\\MasterOrder.php"
+			],
+			[
+				"common hotel",
+				"www\\source\\application\\common\\model\\Hotel.php"
+			],
+			[
+				"app.css",
+				"www\\web\\assets\\store\\css\\app.css"
+			],
+			[
+				"apiuser",
+				"www\\source\\application\\api\\controller\\User.php"
+			],
+			[
+				"common user.php",
+				"www\\source\\application\\common\\model\\User.php"
+			],
+			[
+				"order detailphp",
+				"www\\source\\application\\store\\view\\order\\detail.php"
+			],
+			[
+				"store order",
+				"www\\source\\application\\store\\controller\\Order.php"
+			],
+			[
+				"store order detail",
+				"www\\source\\application\\store\\view\\order\\detail.php"
+			],
+			[
+				"store order deta",
+				"www\\source\\application\\store\\view\\order\\detail.php"
+			],
+			[
+				"store user index",
+				"www\\source\\application\\store\\view\\user\\index.php"
+			],
+			[
+				"store/order/detail",
+				"www\\source\\application\\store\\view\\order\\detail.php"
+			],
+			[
+				"api uplo",
+				"www\\source\\application\\api\\controller\\Upload.php"
+			],
+			[
+				"store order.php",
+				"www\\source\\application\\store\\controller\\Order.php"
+			],
+			[
+				"store detail",
+				"www\\source\\application\\store\\view\\order\\detail.php"
+			],
+			[
+				"store contorder.php",
+				"www\\source\\application\\store\\controller\\Order.php"
+			],
+			[
+				"api order",
+				"www\\source\\application\\api\\controller\\Order.php"
+			],
+			[
+				"store app.css",
+				"www\\web\\assets\\store\\css\\app.css"
+			],
+			[
+				"store room add",
+				"www\\source\\application\\store\\view\\hotel\\room\\add.php"
+			],
+			[
+				"think view",
+				"www\\source\\thinkphp\\library\\think\\View.php"
+			],
+			[
+				"settingsms",
+				"www\\source\\application\\store\\view\\setting\\sms.php"
+			],
+			[
+				"ama",
+				"www\\web\\assets\\store\\css\\amazeui.min.css"
+			],
+			[
+				"view room add",
+				"www\\source\\application\\store\\view\\hotel\\room\\add.php"
+			],
+			[
+				"view room edit",
+				"www\\source\\application\\store\\view\\hotel\\room\\edit.php"
+			],
+			[
+				"model hotel.php",
+				"www\\source\\application\\store\\model\\Hotel.php"
+			],
+			[
+				"hotel/tpl/team",
+				"www\\source\\application\\store\\view\\hotel\\tpl\\team.php"
+			],
+			[
+				"view hotel.php",
+				"www\\source\\application\\store\\view\\hotel\\add.php"
+			],
+			[
+				"set trad",
+				"www\\source\\application\\store\\view\\setting\\trade.php"
+			],
+			[
+				"store view orderinde",
+				"www\\source\\application\\store\\view\\order\\index.php"
+			],
+			[
+				".css",
+				"www\\web\\assets\\store\\css\\app.css"
+			],
+			[
+				"delivery",
+				"www\\source\\application\\common\\model\\Delivery.php"
+			],
+			[
+				"menus.php",
+				"www\\source\\application\\store\\extra\\menus.php"
+			],
+			[
+				"dayscss",
+				"www\\web\\assets\\store\\css\\days.css"
+			],
+			[
+				"days.css",
+				"www\\web\\assets\\store\\css\\days.css"
+			],
+			[
+				"days.php",
+				"www\\source\\application\\store\\view\\hotel\\tpl\\days.php"
+			],
+			[
+				"team.css",
+				"www\\web\\assets\\store\\css\\team.css"
+			],
+			[
+				"common line",
+				"www\\source\\application\\common\\model\\Line.php"
+			],
+			[
+				"days",
+				"www\\web\\assets\\store\\css\\days.css"
+			],
+			[
+				"file.library.js",
+				"www\\web\\assets\\store\\js\\file.library.js"
+			],
+			[
+				"app.js",
+				"yoshop_wechat\\app.js"
+			],
+			[
+				"teamcss",
+				"www\\web\\assets\\store\\css\\team.css"
+			],
+			[
+				"assets/store/css/app",
+				"www\\web\\assets\\store\\css\\app.css"
+			],
+			[
+				"assets/store/css/app.css",
+				"www\\web\\assets\\store\\css\\app.css"
+			],
+			[
+				"assets/store/js/diy.js",
+				"www\\web\\assets\\store\\js\\diy.js"
+			],
+			[
+				"index.",
+				"www\\public\\index.php"
+			],
+			[
+				"lib think mode",
+				"www\\thinkphp\\library\\think\\Model.php"
+			],
+			[
+				"think db conn",
+				"www\\thinkphp\\library\\think\\db\\Connection.php"
+			],
+			[
+				"think db.php",
+				"www\\thinkphp\\library\\think\\Db.php"
+			],
+			[
+				"application common config",
+				"www\\application\\common\\behavior\\Config.php"
+			],
+			[
+				"think model",
+				"www\\thinkphp\\library\\think\\Model.php"
+			],
+			[
+				"index",
+				"www\\public\\index.php"
+			],
+			[
+				"admin model config",
+				"www\\application\\admin\\model\\Config.php"
+			],
+			[
+				"think debug",
+				"www\\thinkphp\\library\\think\\Debug.php"
+			],
+			[
+				"think\\facade\\Debug",
+				"www\\thinkphp\\library\\think\\facade\\Debug.php"
+			],
+			[
+				"database",
+				"www\\config\\database.php"
+			],
+			[
+				"application\\common.php",
+				"www\\application\\common.php"
+			],
+			[
+				"admin/view/dispatch_jump.tpl",
+				"application\\admin\\view\\dispatch_jump.tpl"
+			],
+			[
+				"application\\common\\controller\\Common.php",
+				"application\\common\\controller\\Common.php"
+			],
+			[
+				"admin\\model\\HookPlugin.php",
+				"application\\admin\\model\\HookPlugin.php"
+			],
+			[
+				"admin\\model\\Plugin.php",
+				"application\\admin\\model\\Plugin.php"
+			],
+			[
+				"admin\\model\\Hook.php",
+				"application\\admin\\model\\Hook.php"
+			],
+			[
+				"dolphin.php",
+				"config\\dolphin.php"
+			],
+			[
+				"think_exception.tpl",
+				"thinkphp\\tpl\\think_exception.tpl"
+			],
+			[
+				"app.php",
+				"thinkphp\\library\\think\\App.php"
+			],
+			[
+				"help",
+				"php\\thinkphp\\helper.php"
+			],
+			[
+				"fa",
+				"php\\public\\static\\business\\global\\plugins\\font-awesome\\css\\font-awesome.css"
+			],
+			[
+				"componentmin",
+				"php\\public\\static\\business\\global\\css\\components.min.css"
+			],
+			[
+				"compon",
+				"frozenui-2.0.0\\src\\sass\\base\\variables\\component.scss"
+			],
+			[
+				"compent",
+				"frozenui-2.0.0\\release\\css\\base\\variables\\component.css"
+			],
+			[
+				"bootstrapmin",
+				"php\\public\\static\\business\\global\\plugins\\bootstrap\\css\\bootstrap.min.css"
+			],
+			[
+				"businessList",
+				"php\\application\\admin\\view\\business\\business_list.html"
+			],
+			[
+				"response.php",
+				"php\\thinkphp\\library\\think\\Response.php"
+			],
+			[
+				"start",
+				"php\\thinkphp\\start.php"
+			],
+			[
+				"weixin.php",
+				"php\\public\\weixin.php"
+			],
+			[
+				"frozenui",
+				"css\\frozenui.css"
+			],
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"publicss",
+				"public\\app\\Tpl\\new\\coupon\\css\\public.css"
+			],
+			[
+				"publiccss",
+				"public\\app\\Tpl\\new\\coupon\\css\\public.css"
+			],
+			[
+				"public.css",
+				"public\\app\\Tpl\\new\\coupon\\css\\public.css"
+			],
+			[
+				"jquery.superslide.2.1.js",
+				"public\\app\\Tpl\\new\\coupon\\js\\jquery.SuperSlide.2.1.js"
+			],
+			[
+				"tag",
+				"www\\App\\TagLib\\Zml.class.php"
+			],
+			[
+				"d59fafb5e19c9501648047fb751de297",
+				"www\\Runtime\\Cache\\Home\\d59fafb5e19c9501648047fb751de297.php"
+			],
+			[
+				"adminitemcon",
+				"www\\App\\Admin\\Controller\\ItemController.class.php"
+			],
+			[
+				"adminuserco",
+				"www\\App\\Admin\\Controller\\UserController.class.php"
+			],
+			[
+				"f26d6c1160e5c09b1695cc01854ce756",
+				"www\\Runtime\\Cache\\Home\\f26d6c1160e5c09b1695cc01854ce756.php"
+			],
+			[
+				"dc8f1d73776ec77bb35a05bbc273df9f",
+				"www\\Runtime\\Cache\\Admin\\dc8f1d73776ec77bb35a05bbc273df9f.php"
+			],
+			[
+				"css/common.cs",
+				"www\\Public\\css\\common.css"
+			],
+			[
+				"a368d790fb89e406f49e8a7ce124930f",
+				"www\\Runtime\\Cache\\Admin\\a368d790fb89e406f49e8a7ce124930f.php"
+			],
+			[
+				"login.css",
+				"www\\Public\\css\\login.css"
+			],
+			[
+				"think/page",
+				"www\\Inc\\Library\\Think\\Page.class.php"
+			],
+			[
+				"home/notes",
+				"www\\App\\Home\\Model\\NotesModel.class.php"
+			],
+			[
+				"prepadi",
+				"www\\App\\User\\Controller\\PrepaidController.class.php"
+			],
+			[
+				"user/userpay",
+				"www\\App\\User\\Model\\UserPayModel.class.php"
+			],
+			[
+				"user/prepaid",
+				"www\\App\\User\\Controller\\PrepaidController.class.php"
+			],
+			[
+				"prepaid",
+				"www\\App\\User\\Controller\\PrepaidController.class.php"
+			],
+			[
+				"withitem",
+				"www\\Template\\User\\wap\\Investor\\with_item.html"
+			],
+			[
+				"withitme",
+				"www\\Template\\!User\\wap\\Investor\\with_item.html"
+			],
+			[
+				"withitemhtml",
+				"www\\Template\\!User\\default\\Investor\\with_item.html"
+			],
+			[
+				"user/itemmod",
+				"www\\App\\User\\Model\\ItemModel.class.php"
+			],
+			[
+				"invest",
+				"www\\App\\User\\Controller\\InvestorController.class.php"
+			],
+			[
+				"itemcon",
+				"www\\App\\Home\\Controller\\ItemController.class.php"
+			],
+			[
+				"user/item",
+				"www\\App\\User\\Model\\ItemModel.class.php"
+			],
+			[
+				"homeitem",
+				"www\\App\\Home\\Controller\\ItemController.class.php"
+			],
+			[
+				"payment",
+				"www\\App\\Home\\Controller\\PaymentController.class.php"
+			],
+			[
+				"loginco",
+				"www\\App\\User\\Controller\\LoginController.class.php"
+			],
+			[
+				"loginc",
+				"www\\App\\Api\\Controller\\LoginController.class.php"
+			],
+			[
+				"bind",
+				"www\\App\\User\\Controller\\BindphoneController.class.php"
+			],
+			[
+				"home/news",
+				"www\\App\\Home\\Model\\NewsModel.class.php"
+			],
+			[
+				"zml",
+				"www\\App\\TagLib\\Zml.class.php"
+			],
+			[
+				"prepa",
+				"www\\App\\User\\Controller\\PrepaidController.class.php"
+			],
+			[
+				"investor",
+				"www\\App\\User\\Controller\\InvestorController.class.php"
+			],
+			[
+				"usercent",
+				"www\\Public\\css\\user-center.css"
+			],
+			[
+				"userindexc",
+				"www\\App\\User\\Controller\\IndexController.class.php"
+			],
+			[
+				"adminprof",
+				"www\\App\\Admin\\Controller\\ProfitController.class.php"
+			],
+			[
+				"adminpdata",
+				"www\\App\\Admin\\Controller\\PdataController.class.php"
+			],
+			[
+				"userinfoc",
+				"www\\App\\User\\Controller\\InfoController.class.php"
+			],
+			[
+				"func",
+				"www\\Inc\\Common\\functions.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\www\\juxiangke.cn\\乒乓球.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
